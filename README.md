@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (version 16.x or later)
+- [Node.js](https://nodejs.org/) (version 18.17 or later)
 - [npm](https://www.npmjs.com/)
 
 ### Installation
